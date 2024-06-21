@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EmoTrack_SwarajFinalYearProject1/static/css/main.4422d572.css",
+    "main.js": "/EmoTrack_SwarajFinalYearProject1/static/js/main.1a9297cf.js",
+    "static/media/MeditationSound.mp3": "/EmoTrack_SwarajFinalYearProject1/static/media/MeditationSound.eef4357403cc224dff9f.mp3",
+    "static/media/emotrack_logo.webp": "/EmoTrack_SwarajFinalYearProject1/static/media/emotrack_logo.7e6a72d03401dda6d28b.webp",
+    "static/media/emotrack.png": "/EmoTrack_SwarajFinalYearProject1/static/media/emotrack.4cf8e2da644e4d14928d.png",
+    "static/media/Memes.webp": "/EmoTrack_SwarajFinalYearProject1/static/media/Memes.3a0bb9a590c5a6cce3f5.webp",
+    "static/media/Games.webp": "/EmoTrack_SwarajFinalYearProject1/static/media/Games.9f938b35d37b2d4097d8.webp",
+    "static/media/Exercise.webp": "/EmoTrack_SwarajFinalYearProject1/static/media/Exercise.71b564e2f2295d713323.webp",
+    "static/media/SidebarCurve.svg": "/EmoTrack_SwarajFinalYearProject1/static/media/SidebarCurve.4bf43d2ecaa65f4dcadb129aa6e8ef0c.svg",
+    "index.html": "/EmoTrack_SwarajFinalYearProject1/index.html",
+    "main.4422d572.css.map": "/EmoTrack_SwarajFinalYearProject1/static/css/main.4422d572.css.map",
+    "main.1a9297cf.js.map": "/EmoTrack_SwarajFinalYearProject1/static/js/main.1a9297cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4422d572.css",
+    "static/js/main.1a9297cf.js"
+  ]
+}
